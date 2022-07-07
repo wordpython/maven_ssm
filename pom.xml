@@ -102,7 +102,7 @@
 		<dependency>
 			<groupId>org.springframework</groupId>
 			<artifactId>spring-expression</artifactId>
-			<version>4.2.4.RELEASE</version>
+			<version>5.2.21.RELEASE</version>
 		</dependency>
 		<!--基础web功能，如文件上传 -->
 		<dependency>
